@@ -10,3 +10,7 @@ Go to the [issues](https://github.com/webvr-india/volunteer-contributions/issues
 ## What do we do with this
 
 Every month, we collect your contributions from here and put it on the [Mozilla India WebVR wiki](https://wiki.mozilla.org/India/WebVR/), which can be later used by A-Frame team to feature your contributions on [A Week Of A-Frame blogposts](http://aframe.io/blog/awoa-25/).
+
+## WebVR-India-Superstarts
+
+Everyone who is actively contributing to WebVR-India is featured as WebVR-India-Superstar on [Mozilla India WebVR wiki](https://wiki.mozilla.org/India/WebVR/), and he also gets to join WebVR-India-Superstars Telegram group where all early discussion happens for all new activities and lot more.
