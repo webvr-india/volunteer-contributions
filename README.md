@@ -14,5 +14,4 @@ Every month, we collect your contributions from here and put it on the [Mozilla 
 ## WebVR-India-Superstarts
 
 Everyone who is actively contributing to WebVR-India is featured as WebVR-India-Superstar on [Mozilla India WebVR wiki](https://wiki.mozilla.org/India/WebVR/), and he also gets to join WebVR-India-Superstars Telegram group where all early discussion happens for all new activities and lot more. 
-
-Please note - The contribution done during an event by a new member is not considered for this. Kindly keep continuing the contribution after the event, the next time you submit the contribution you will be added to the Superstars list :-) #HappyContributing. 
+'Please note - The contribution done during an event by a new member is not considered for this. Kindly keep continuing the contribution after the event, the next time you submit the contribution you will be added to the Superstars list :-) #HappyContributing. 
